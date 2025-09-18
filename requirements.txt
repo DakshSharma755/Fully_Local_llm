@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+
+lancedb
+sentence-transformers
+torch
+google-generativeai
+pyarrow
+langchain
+llama-cpp-python
+
+python-dotenv
+pymupdf
+python-multipart
+
+streamlit
+requests
