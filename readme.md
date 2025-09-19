@@ -45,8 +45,8 @@ Ensure you have a compatible NVIDIA driver installed on your Windows host. This 
 
 ### 2. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd rag_e_chatbot
+git clone https://github.com/DakshSharma755/Fully_Local_llm
+cd Fully_Local_llm
 ```
 
 ### 3. Set Up Python Environment
@@ -132,4 +132,5 @@ Once both servers are running, open the Streamlit URL in your browser.
 └──  frontend/
     ├──  chat.py              
     └──  pages/
+
         └──  uploaddocs.py
