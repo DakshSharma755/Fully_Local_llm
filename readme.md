@@ -118,7 +118,7 @@ Once both servers are running, open the Streamlit URL in your browser.
 
 
 ### Project Structure
-
+```bash
 .
 ├──  .gitignore
 ├──  app.py
@@ -132,5 +132,6 @@ Once both servers are running, open the Streamlit URL in your browser.
 └──  frontend/
     ├──  chat.py              
     └──  pages/
-
         └──  uploaddocs.py
+```
+
